@@ -1,0 +1,6 @@
+id=CNPOAM_MineKura
+name=CPad Next Power Option add modules
+version=v1.0.0
+versionCode=1
+author=MineKura
+description=チャレンジパッドNextで電源オプションにスクリーンショットや再起動ボタンを追加しました。
