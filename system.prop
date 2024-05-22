@@ -1,0 +1,3 @@
+# Add new Power Options
+ro.config.reboot_from_power=true
+ro.config.screen_shot=true
